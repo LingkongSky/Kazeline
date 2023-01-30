@@ -1,0 +1,22 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "The develop of the Kazeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LingkongSky/Kazeline.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Lingkong",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LingkongSky/Kazeline/issues"
+  },
+  "homepage": "https://github.com/LingkongSky/Kazeline#readme"
+}
